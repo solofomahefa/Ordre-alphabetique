@@ -1,4 +1,4 @@
-// 1) Afficher dans l'ordre alphabétique "lastname"
+/// 1) Afficher dans l'ordre alphabétique "lastname"
 // 2) Afficher dans un tableau HTML basique dans l'ordre alphabétique
 
 let arr = [
