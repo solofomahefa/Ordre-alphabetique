@@ -29,7 +29,7 @@ let arr = [
 
 ];
 
-//Tri dans l'ordre croissant de lastname
+//Tri de lastname
 let croissant = arr;
 for(i = 0; i <croissant.length; i++){
 	for(j = i+1; j<croissant.length; j++){
